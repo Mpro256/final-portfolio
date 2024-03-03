@@ -34,7 +34,6 @@ ReactDOM.render(
         <Navbar />
         <Intro />
         <About />
-        <Portfolio />
         <Contact />
         <BackToTop />
         <Preloader />
